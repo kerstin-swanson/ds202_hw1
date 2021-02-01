@@ -1,0 +1,70 @@
+---
+title: "Homework #1"
+author: "Kerstin Swanson"
+date: "1/25/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1.Create a folder named ds202_hw1, and either create an RMarkDown file hw1.Rmd under this folder or move the provided template into this folder. hw1.Rmd will include your solutions. The file and folder names are case-sensitive, which means hw1.Rmd and HW1.rmd are different. 
+
+  Answer: Done 
+
+
+2.Write your name in the YAML of your homework Rmd file.
+
+  Answer: Done
+
+
+3.Write a paragraph to introduce yourself. Set your name in bold font and your major in italic.
+
+  Answer: Hi! My name is **Kerstin Swanson** and I am a *statistics* major. I am a Senior set to graduate in May! I'm from Omaha, and I was born in Connecticut. Two years ago I studied abroad in France, so I have a French minor, as well as a data science minor. Some of my favorite pasttimes are running and reading.
+
+
+4.Write a paragraph describing a job that you think is related to data science. Include a hyperlink and an image. Make sure your answer is in a nice format to read.
+
+  Answer: I believe that sports analytics is a field related to data science. These analysts use data to provide statistical analysis and graphic visuals on players and teams, as well as make future predictions.
+
+![Sports Analytics](sports.png)
+<https://scorum.com/en-us/innovations/@marcbrom/sports-analytics-and-data-intelligence-the-future>
+
+5.What data topic will you be most interested in? (Optional) Provide a source of such dataset if you have.
+
+  Answer: I am most interested in human-based data, with topics such as health, crime, education, etc.
+
+
+
+6.To check that your R and Rstudio installation is correct, find the version of R by entering version into the R console. Include this command into a R code trunk in your solution Rmd file to have it automatically printed in the knitted html file.
+
+```{r cars}
+version
+```
+
+  I have version 3.6.1
+
+
+7.Install git.
+
+
+  Answer: Done, I have a Mac computer.
+
+
+
+8.What is the version of your Git? To find out, go to the Terminal tab in RStudio (right to the Console tab), and type in the following command. If it works, this shows that the setup of your terminal and Git is correct.
+
+  Answer: I have git version 2.17.2
+
+
+9.Configure your git username and user email by modifying and entering the following commands into the terminal.
+
+  Answer: Done
+
+
+10.Register a GitHub account. What is your username?
+
+  Answer: My username is Kerstin-Swanson
+
+
