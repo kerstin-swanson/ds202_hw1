@@ -1,0 +1,20 @@
+---
+title: "partner.Rmd"
+author: "Emma Smykalski"
+date: "2/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name: Emma Smykalski
+GitHub username: EmmaSmykalski
+
+Last commit made: name
+Commit ID: 808ea06
+
+I didn't encounter any errors. 
+
+I had some difficulty with figuring out where to find some things in GitHub but found them eventually. 
