@@ -60,7 +60,7 @@ version
 
 9.Configure your git username and user email by modifying and entering the following commands into the terminal.
 
-  Answer: Done
+  Answer: Done 
 
 
 10.Register a GitHub account. What is your username?
