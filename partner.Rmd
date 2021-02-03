@@ -9,8 +9,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Name: Emma Smykalski
-GitHub username: EmmaSmykalski
+Name: Emma Smykalski  
+Partner's name: Kerstin Swanson 
+
+GitHub username: EmmaSmykalski  
+Partner's GitHub username: kerstin-swanson  
 
 Last commit made: name
 Commit ID: 808ea06
